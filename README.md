@@ -8,8 +8,9 @@ https://docs.docker.com/docker-for-windows/install/
 https://docs.docker.com/compose/install/
 
 3. Run Back Service with commande :
+```
 docker-compose -f docker-compose.yaml up
-
+```
 
 4. The projet back service spring boot is in [/app](https://github.com/Yiao/PocExcelBackService/tree/main/app)
 
